@@ -24,7 +24,7 @@ I am a CS graduate working on making it easier and faster for developers to buil
 
 ![Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-REHMAN&show_icons=true&theme=codeSTACKr)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MD-REHMAN&theme=codeSTACKr)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MD-REHMAN&theme=elegant)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-REHMAN&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
