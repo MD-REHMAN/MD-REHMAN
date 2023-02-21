@@ -26,7 +26,7 @@ I am a CS graduate working on making it easier and faster for developers to buil
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MD-REHMAN&theme=dark&background=0C1116&ring=F6882B&dates=F6882B&currStreakLabel=FED7AA&sideLabels=FED7AA&fire=F6681E)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-REHMAN&layout=compact&theme=dark&bg_color=0C1116&title_color=F6882B&card_width=475)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-REHMAN&layout=compact&theme=dark&bg_color=0C1116&title_color=F6882B&card_width=445)
 
 <details>
 <summary><h3>👨‍💻 My Coding Journey</h3></summary>
