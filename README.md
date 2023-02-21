@@ -22,7 +22,7 @@ I am a CS graduate working on making it easier and faster for developers to buil
 
 ### 🔥 Stats
 
-![Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-REHMAN&show_icons=true&theme=dark&custom_title=Rehman&ring_color=F6882B&title_color=F6882B&text_color=FFF7ed&icon_color=F6882B&bg_color=0C1116)
+![Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-REHMAN&show_icons=true&theme=dark&ring_color=F6882B&title_color=F6882B&text_color=FFF7ed&icon_color=F6882B&bg_color=0C1116)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MD-REHMAN&theme=elegant)](https://git.io/streak-stats) -->
 
