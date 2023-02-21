@@ -22,13 +22,11 @@ I am a CS graduate working on making it easier and faster for developers to buil
 
 ### 🔥 Stats
 
-![Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-REHMAN&show_icons=true&theme=dark&ring_color=F6882B&title_color=F6882B&text_color=FFF7ed&icon_color=F6882B&bg_color=0C1116)
+![Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-REHMAN&show_icons=true&theme=dark&ring_color=F6882B&title_color=F6882B&text_color=FFF7ed&icon_color=F6882B&bg_color=0C1116&card_width=495)
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MD-REHMAN&theme=elegant)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=MD-REHMAN&theme=dark&background=0C1116&ring=F6882B&dates=F6882B&currStreakLabel=FED7AA&sideLabels=FED7AA&fire=F6681E)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readm-patch-1-lbimbzdqu.herokuapp.com?user=MD-REHMAN&theme=rising-sun)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-REHMAN&layout=compact&theme=dark&bg_color=0C1116&title_color=F6882B)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-REHMAN&layout=compact&theme=dark&bg_color=0C1116&title_color=F6882B)](https://github.com/anuraghazra/github-readme-stats&card_width=495)
 
 <details>
 <summary><h3>👨‍💻 My Coding Journey</h3></summary>
