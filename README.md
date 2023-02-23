@@ -28,8 +28,6 @@ I am a CS graduate working on making it easier and faster for developers to buil
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-REHMAN&layout=compact&theme=dark&bg_color=0C1116&title_color=F6882B&card_width=445)
 
-![Top Langs](https://github-readme-stats-461qkwslv-md-rehman.vercel.app/api/top-langs/?username=MD-REHMAN&layout=compact&theme=dark&bg_color=0C1116&title_color=F6882B&card_width=445)
-
 <details>
 <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 I started my coding journey as a naive computer science student with a passion to learn everything. I tried C, C++, Java, Android but fell in love with JavaScript.
