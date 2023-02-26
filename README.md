@@ -26,7 +26,7 @@ I am a CS graduate working on making it easier and faster for developers to buil
 
 ![Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-REHMAN&show_icons=true&theme=dark&ring_color=F6882B&title_color=F6882B&text_color=FFF7ed&icon_color=F6882B&bg_color=0C1116&card_width=495)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-REHMAN&layout=compact&theme=dark&bg_color=0C1116&title_color=F6882B&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-REHMAN&layout=compact&theme=dark&bg_color=0C1116&title_color=F6882B&card_width=495)
 
 <details>
 <summary><h3>👨‍💻 My Coding Journey</h3></summary>
@@ -39,3 +39,12 @@ But with my first job, I got a taste of ReactJS, and no coming back from that po
 And overtime I have worked component library (NativeBase), Web Apps, Mobile Apps, code mod, ebooks, babel plugins and chrome extensions.
 
 Currently learning how everything works under the hood.
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/_mdrehman" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/_mdrehman/?theme=dark" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="http://www.linkedin.com/in/rehman-2468" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:rehman2468@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
